@@ -11,3 +11,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by Sairaj2113
+ #Adding another line to megre and pull request to main branch
